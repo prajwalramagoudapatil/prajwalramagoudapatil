@@ -1,13 +1,10 @@
 - 👋 Hi, I’m @prajwalramagoudapatil
-- 👀 I’m interested in ... INTERNSHIP
+- 👀 I’m interested in ... 
 - 🌱 I’m currently learning 
                   Java, 
                   dataStructures in C,
-                  html css javascript and
                   CPP
 - 💞️ I’m looking to collaborate on -
-         Practical applications of 
-         above said languages 
 
 - 📫 How to reach me ...
 
